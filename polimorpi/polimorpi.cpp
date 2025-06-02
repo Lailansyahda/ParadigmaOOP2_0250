@@ -20,4 +20,7 @@ class joko : public seseorang
     }
 };
 
-class lia 
+class lia : public seseorang
+{
+    public :
+}
