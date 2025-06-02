@@ -19,3 +19,5 @@ class joko : public seseorang
        cout << "Pesan dari lia" << endl; 
     }
 };
+
+class lia 
