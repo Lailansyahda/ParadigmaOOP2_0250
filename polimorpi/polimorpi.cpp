@@ -11,4 +11,4 @@ class seseorang
     }
 };
 
-class joko : 
+class joko : public seseorang
